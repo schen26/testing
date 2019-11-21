@@ -8,3 +8,4 @@ def count(sequence, item):
 
 def sum_of(firstNumber, secondNumber):
     return firstNumber + secondNumber
+
